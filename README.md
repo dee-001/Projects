@@ -1,1 +1,1 @@
-The AI integration in travel app project analyses the features and offerings by competitors, dives into user research and then proposes feature addition and AI integration through UX designs. Then it talks about feature prioritization and the GTM strategy.
+The AI integration in travel app project analyses the features and offerings by competitors, dives into user research and then proposes feature addition and AI integration through UX designs. Then it further focuses on feature prioritization and the GTM strategy.
